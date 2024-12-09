@@ -1,0 +1,158 @@
+.secOne {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 511px;
+
+}
+
+.secOne img {
+    float: left;
+    width: 711px;
+    height: 510px;
+    background-color: blue;
+    margin-right: 100px;
+}
+
+.secOne .text {
+    
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    width: 500px;
+    
+}
+
+.secOne .icon {
+    font-size: 30px;
+    color: rgb(58, 58, 169);
+}
+
+.secOne .text div {
+    
+    
+
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    width: 500px;
+
+}
+
+.secOne .text div h1 {
+
+    font-size: 38px;
+}
+
+.secOne .text p {
+    width: 500px;
+    font-size: 20px;
+    text-align: start;
+    align-self: center;
+}
+.continar{
+    width: 100%;
+    height: 100px;
+}
+/*-----------------body-section-Tow---------------------------*/ 
+
+
+.secTow {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 511px;
+
+}
+
+.secTow img {
+    float: right;
+    width: 711px;
+    height: 510px;
+    background-color: blue;
+}
+
+.secTow .text {
+    
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    width: 500px;
+}
+
+.secTow .icon {
+    font-size: 30px;
+    color: rgb(58, 58, 169);
+}
+
+.secTow .text div {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    width: 500px;
+
+}
+
+.secTow .text div h1 {
+
+    font-size: 38px;
+}
+
+.secTow .text p {
+    width: 500px;
+    font-size: 20px;
+    text-align: end;
+    align-self: center;
+}
+/*--------------section Team ---------------*/ 
+
+.secOurTeam {
+    width: 100%;
+}
+.secOurTeam div ul li img {
+    width: 350px;
+    height: 400px;
+}
+.secOurTeam h1 {
+    margin: 40px;
+    justify-self: center;
+    margin-bottom: 80px;
+}
+.secOurTeam div ul  {
+    margin-left:30px ;
+    display: inline-flex;
+    flex-direction: row;
+    list-style: none;
+    font-size: 25px;
+    gap: 20px;
+    
+}
+
+.secOurTeam div ul li div 
+ {
+    justify-items: center;
+
+ }
+ .secOurTeam div ul li div h4
+ {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+
+ }
+ .secOurTeam div ul li div h6
+ {
+    margin-top: 15px;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: #3d3d46;
+
+ }
+
+ .secOurTeam div ul li div :hover
+ {
+    
+    border: 1px solid grey ;
+ }
