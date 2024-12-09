@@ -2,11 +2,11 @@
     color: whitesmoke;
     width: 100%;
     height: 200px;
-    background-image: url("C:/Users/qk-21/Desktop/TaskOne/images/pngtree-a-.jpg");
+    background-image: url("C:/Users/qk-21/Desktop/TaskOne/images/imagesLogin/pngtree-a-.jpg");
     background-attachment: fixed;
     display: flex;
     flex-direction: column;
-    gap: 7px;
+    gap: 7px;                           
     align-items: center;
     justify-content: center;
     font-size: 25px;
